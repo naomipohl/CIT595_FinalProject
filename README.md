@@ -84,31 +84,19 @@ Navigate to ```localhost:3000```!
 Demonstrations of the features mentioned above:
 
 * View the most recent, min, max and average temperatures on the browser
-![](DynamicTemperatures.gif)
+![](DynamicTemperatures.gif)<br/>
 * View the temperature over time in a dynamic line graph on the browser
 * See whether the temperature has gone up, down or stayed the same second-over-second
-via a dynamically colored dot on the browser
+via a dynamically colored dot on the browser<br/>
 ![](GraphDot.gif)
-* Send a signal from browser to Arduino to change the temperature from C to F, or from F to C
+* Send a signal from browser to Arduino to change the temperature from C to F, or from F to C<br/>
 ![](changeTemperature.gif)
-* Send a signal from browser to Arduino to turn the light blue
+* Send a signal from browser to Arduino to turn the light blue<br/>
 ![](Blue.gif)
-* Send a signal from browser to Arduino to put the Arduino into Standby mode (or take the Arduino out of standby mode)
+* Send a signal from browser to Arduino to put the Arduino into Standby mode (or take the Arduino out of standby mode)<br/>
 ![](Standby.gif)
-* Wait for Arduino to be reconnected if it has been disconnected
+* Wait for Arduino to be reconnected if it has been disconnected<br/>
 ![](Reconnecting.gif)
-* Press 'q' in the terminal to quit the program
-
-
-![](RandomizedBoard.gif)
-
-Merge, split, swap and rotate to catch the dog!
-
-![](PlayGame.gif)
-
-Error checking for illegal moves is done through the ```main``` method:
-
-![](ErrorChecking.gif)
 
 ## Versions
 
